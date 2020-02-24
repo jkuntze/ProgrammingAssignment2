@@ -1,3 +1,7 @@
+## R Programming
+
+This repository contains files related to the course R Programming offered through Coursera, more specifically to the second programming assessment.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
